@@ -1,0 +1,14 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\bin\Debug\Contactos.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\bin\Debug\Contactos.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\bin\Debug\Contactos.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\bin\Debug\Contactos.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.vbproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.Resources.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.vbproj.GenerateResource.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.vbproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\bin\Debug\Contactos.mdf
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\bin\Debug\Contactos_log.ldf
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Contactos\obj\Debug\Contactos.Form1.resources

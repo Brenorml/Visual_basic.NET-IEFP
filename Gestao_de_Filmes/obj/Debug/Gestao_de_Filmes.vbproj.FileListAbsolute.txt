@@ -1,0 +1,12 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\bin\Debug\Gestao_de_Filmes.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\bin\Debug\Gestao_de_Filmes.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\bin\Debug\Gestao_de_Filmes.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\bin\Debug\Gestao_de_Filmes.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.vbproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.Form1.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.Resources.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.vbproj.GenerateResource.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.vbproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\Gestao_de_Filmes\obj\Debug\Gestao_de_Filmes.pdb

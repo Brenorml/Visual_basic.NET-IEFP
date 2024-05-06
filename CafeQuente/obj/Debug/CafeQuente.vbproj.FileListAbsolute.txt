@@ -1,0 +1,13 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\bin\Debug\CafeQuente.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\bin\Debug\CafeQuente.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\bin\Debug\CafeQuente.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\bin\Debug\CafeQuente.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.vbproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.Form1.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.Resources.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.vbproj.GenerateResource.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.vbproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\CafeQuente\obj\Debug\CafeQuente.Pagamento.resources

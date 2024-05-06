@@ -1,0 +1,13 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\bin\Debug\LeituraFicheiro.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\bin\Debug\LeituraFicheiro.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\bin\Debug\LeituraFicheiro.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\bin\Debug\LeituraFicheiro.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.vbproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.Form1.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.Resources.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.vbproj.GenerateResource.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.vbproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\LeituraFicheiro\obj\Debug\LeituraFicheiro.pdb

@@ -1,0 +1,14 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\bin\Debug\BlocoDeNotas.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.Form1.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.Resources.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbproj.GenerateResource.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.vbproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\BlocoDeNotas\obj\Debug\BlocoDeNotas.BlocoDeNotas.resources

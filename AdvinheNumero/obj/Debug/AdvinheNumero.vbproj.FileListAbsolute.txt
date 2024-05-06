@@ -1,0 +1,13 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\bin\Debug\AdvinheNumero.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\bin\Debug\AdvinheNumero.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\bin\Debug\AdvinheNumero.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\bin\Debug\AdvinheNumero.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.vbproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.Form1.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.Resources.resources
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.vbproj.GenerateResource.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.vbproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\VB-Workspace\UFCD-3934\WinVB\AdvinheNumero\obj\Debug\AdvinheNumero.pdb
