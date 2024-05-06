@@ -4,8 +4,7 @@
 
 ### UFCD-3934 - PROGRAMAÇÃO EM VISUAL BASIC .NET
 
-
-Aplicativos desenvolvidos durante as disciplinas UFCD3439 e UFCD3935 no curso técnico de programação do IEFP.
+Aplicativos desenvolvidos durante as disciplinas UFCD3934 no curso técnico de programação do IEFP.
 
 ### Linguagens:
 
