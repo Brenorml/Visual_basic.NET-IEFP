@@ -9,7 +9,7 @@ Aplicativos desenvolvidos durante as disciplinas UFCD3934 no curso técnico de p
 ### Linguagens:
 
 * Visual Basic .NET
-* Programação Orentada a Eventos
+* Programação Orientada a Eventos
 
 ### Ferramentas:
 
